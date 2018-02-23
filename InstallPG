@@ -1,0 +1,5 @@
+#!/bin/bash
+# Installation des librairies PG 
+sudo apt-get install libpq-dev;
+# Installation de la gem PG
+gem install pg;
